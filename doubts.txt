@@ -1,5 +1,16 @@
 - Na hora de contar os docentes -> Devo contar apenas os em exercício? Ou consideramos também alguma outra classificação como Afastados? E os que não dispõem de informação ou não quiseram declarar o que fazemos? E os professores substitutos?
+- É necessário tirar os substitutos da análise?
+
+- Não vamos falar nada sobre ser homem ou mulher?
+
+Observações
+- A Categoria Administrativa "Especial" foi ignorada.
+- Ênfase nos professores que tem bolsa, pois no ano de 2009 existem muitos que não tem a informação. Então só da para confiar na informação True.
 
 
+
+
+To do:
+-Entender a lei na parte dos docentes.
 
 
